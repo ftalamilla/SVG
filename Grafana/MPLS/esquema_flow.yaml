@@ -1,0 +1,253 @@
+elements:
+- id: cell-52
+  metric: A
+  thresholds:
+  - value: 50
+    color: yellow
+  - value: 80
+    color: red
+- id: cell-53
+  metric: B
+  thresholds:
+  - value: 50
+    color: yellow
+  - value: 80
+    color: red
+- id: cell-54
+  metric: C
+  thresholds:
+  - value: 50
+    color: yellow
+  - value: 80
+    color: red
+- id: cell-55
+  metric: D
+  thresholds:
+  - value: 50
+    color: yellow
+  - value: 80
+    color: red
+- id: cell-57
+  metric: E
+  thresholds:
+  - value: 50
+    color: yellow
+  - value: 80
+    color: red
+- id: cell-58
+  metric: F
+  thresholds:
+  - value: 50
+    color: yellow
+  - value: 80
+    color: red
+- id: cell-59
+  metric: G
+  thresholds:
+  - value: 50
+    color: yellow
+  - value: 80
+    color: red
+- id: cell-60
+  metric: H
+  thresholds:
+  - value: 50
+    color: yellow
+  - value: 80
+    color: red
+- id: cell-61
+  metric: I
+  thresholds:
+  - value: 50
+    color: yellow
+  - value: 80
+    color: red
+- id: cell-62
+  metric: J
+  thresholds:
+  - value: 50
+    color: yellow
+  - value: 80
+    color: red
+- id: cell-63
+  metric: K
+  thresholds:
+  - value: 50
+    color: yellow
+  - value: 80
+    color: red
+- id: cell-64
+  metric: L
+  thresholds:
+  - value: 50
+    color: yellow
+  - value: 80
+    color: red
+- id: cell-65
+  metric: M
+  thresholds:
+  - value: 50
+    color: yellow
+  - value: 80
+    color: red
+- id: cell-66
+  metric: N
+  thresholds:
+  - value: 50
+    color: yellow
+  - value: 80
+    color: red
+- id: cell-67
+  metric: O
+  thresholds:
+  - value: 50
+    color: yellow
+  - value: 80
+    color: red
+- id: cell-68
+  metric: P
+  thresholds:
+  - value: 50
+    color: yellow
+  - value: 80
+    color: red
+- id: cell-69
+  metric: Q
+  thresholds:
+  - value: 50
+    color: yellow
+  - value: 80
+    color: red
+- id: cell-70
+  metric: R
+  thresholds:
+  - value: 50
+    color: yellow
+  - value: 80
+    color: red
+- id: cell-71
+  metric: S
+  thresholds:
+  - value: 50
+    color: yellow
+  - value: 80
+    color: red
+- id: cell-72
+  metric: T
+  thresholds:
+  - value: 50
+    color: yellow
+  - value: 80
+    color: red
+- id: cell-73
+  metric: U
+  thresholds:
+  - value: 50
+    color: yellow
+  - value: 80
+    color: red
+- id: cell-74
+  metric: V
+  thresholds:
+  - value: 50
+    color: yellow
+  - value: 80
+    color: red
+- id: cell-75
+  metric: W
+  thresholds:
+  - value: 50
+    color: yellow
+  - value: 80
+    color: red
+- id: cell-76
+  metric: X
+  thresholds:
+  - value: 50
+    color: yellow
+  - value: 80
+    color: red
+- id: cell-77
+  metric: Y
+  thresholds:
+  - value: 50
+    color: yellow
+  - value: 80
+    color: red
+- id: cell-78
+  metric: Z
+  thresholds:
+  - value: 50
+    color: yellow
+  - value: 80
+    color: red
+- id: cell-79
+  metric: A
+  thresholds:
+  - value: 50
+    color: yellow
+  - value: 80
+    color: red
+- id: cell-80
+  metric: B
+  thresholds:
+  - value: 50
+    color: yellow
+  - value: 80
+    color: red
+- id: cell-81
+  metric: C
+  thresholds:
+  - value: 50
+    color: yellow
+  - value: 80
+    color: red
+- id: cell-82
+  metric: D
+  thresholds:
+  - value: 50
+    color: yellow
+  - value: 80
+    color: red
+- id: cell-83
+  metric: E
+  thresholds:
+  - value: 50
+    color: yellow
+  - value: 80
+    color: red
+- id: cell-84
+  metric: F
+  thresholds:
+  - value: 50
+    color: yellow
+  - value: 80
+    color: red
+- id: cell-85
+  metric: G
+  thresholds:
+  - value: 50
+    color: yellow
+  - value: 80
+    color: red
+- id: cell-86
+  metric: H
+  thresholds:
+  - value: 50
+    color: yellow
+  - value: 80
+    color: red
+- id: cell-87
+  metric: I
+  thresholds:
+  - value: 50
+    color: yellow
+  - value: 80
+    color: red
+- id: cell-88
+  metric: J
+  thresholds:
+  - value: 50
+    color: yellow
+  - value: 80
+    color: red
